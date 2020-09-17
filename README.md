@@ -1,2 +1,2 @@
-# solder_station
+# Solder Station
 RT Weller Solder station
