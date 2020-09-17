@@ -1,0 +1,9 @@
+[submodule "solder_station_avr"]
+	path = solder_station_avr
+	url = https://github.com/pimium/solder_station_avr.git
+[submodule "solder_station_kicad_board"]
+	path = solder_station_kicad_board
+	url = https://github.com/pimium/solder_station_kicad_board.git
+[submodule "solder_station_kicad_pwr"]
+	path = solder_station_kicad_pwr
+	url = https://github.com/pimium/solder_station_kicad_pwr.git
